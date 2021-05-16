@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DotNetLogger", "DotNetLogge
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TelegAniDumper", "TelegAniDumper\TelegAniDumper.vcxproj", "{BD2FC0AC-4A78-4121-8F51-DE46A1BEB447}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AntiWinHook", "AntiWinHook\AntiWinHook.vcxproj", "{EB30BF92-0EC0-4AF4-946B-1C8077319110}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		DbgAfter|x64 = DbgAfter|x64
@@ -143,6 +145,22 @@ Global
 		{BD2FC0AC-4A78-4121-8F51-DE46A1BEB447}.RelBefore|x64.Build.0 = RelBefore|x64
 		{BD2FC0AC-4A78-4121-8F51-DE46A1BEB447}.RelBefore|x86.ActiveCfg = RelBefore|Win32
 		{BD2FC0AC-4A78-4121-8F51-DE46A1BEB447}.RelBefore|x86.Build.0 = RelBefore|Win32
+		{EB30BF92-0EC0-4AF4-946B-1C8077319110}.DbgAfter|x64.ActiveCfg = DbgAfter|x64
+		{EB30BF92-0EC0-4AF4-946B-1C8077319110}.DbgAfter|x64.Build.0 = DbgAfter|x64
+		{EB30BF92-0EC0-4AF4-946B-1C8077319110}.DbgAfter|x86.ActiveCfg = DbgAfter|Win32
+		{EB30BF92-0EC0-4AF4-946B-1C8077319110}.DbgAfter|x86.Build.0 = DbgAfter|Win32
+		{EB30BF92-0EC0-4AF4-946B-1C8077319110}.DbgBefore|x64.ActiveCfg = DbgBefore|x64
+		{EB30BF92-0EC0-4AF4-946B-1C8077319110}.DbgBefore|x64.Build.0 = DbgBefore|x64
+		{EB30BF92-0EC0-4AF4-946B-1C8077319110}.DbgBefore|x86.ActiveCfg = DbgBefore|Win32
+		{EB30BF92-0EC0-4AF4-946B-1C8077319110}.DbgBefore|x86.Build.0 = DbgBefore|Win32
+		{EB30BF92-0EC0-4AF4-946B-1C8077319110}.RelAfter|x64.ActiveCfg = RelAfter|x64
+		{EB30BF92-0EC0-4AF4-946B-1C8077319110}.RelAfter|x64.Build.0 = RelAfter|x64
+		{EB30BF92-0EC0-4AF4-946B-1C8077319110}.RelAfter|x86.ActiveCfg = RelAfter|Win32
+		{EB30BF92-0EC0-4AF4-946B-1C8077319110}.RelAfter|x86.Build.0 = RelAfter|Win32
+		{EB30BF92-0EC0-4AF4-946B-1C8077319110}.RelBefore|x64.ActiveCfg = RelBefore|x64
+		{EB30BF92-0EC0-4AF4-946B-1C8077319110}.RelBefore|x64.Build.0 = RelBefore|x64
+		{EB30BF92-0EC0-4AF4-946B-1C8077319110}.RelBefore|x86.ActiveCfg = RelBefore|Win32
+		{EB30BF92-0EC0-4AF4-946B-1C8077319110}.RelBefore|x86.Build.0 = RelBefore|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
